@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific large data files
+data_raw/
+*.parquet
+
+# Competition datasets and submissions
+*.csv
