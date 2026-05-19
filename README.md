@@ -2,7 +2,7 @@
 
 > Forecasting customer transaction volumes using 18 million banking records, advanced feature engineering, time-aware validation, and blended gradient boosting models.
 
-![Certificate](outputs/zindi_certificate.png)
+![Zindi Certificate](outputs/zindi_certificate.png)
 
 ---
 
@@ -59,6 +59,8 @@ Data sources included:
 - Financial balances
 - Customer demographics
 - Account characteristics
+
+---
 
 ## Feature Engineering Strategy
 
@@ -323,6 +325,4 @@ Potential areas for further exploration include:
 * [Zindi](https://zindi.africa) for hosting the competition
 * [Nedbank Group Limited](https://www.nedbank.co.za) for providing the dataset and challenge
 
-```
-```
 
